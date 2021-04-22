@@ -1,0 +1,22 @@
+#container{
+
+	background-color:blue;
+	height:500px;
+	width:550px;
+	padding-bottom:50px;
+	font-size:35px;
+	
+
+}
+.center{
+	text-align:center;
+	margin:auto;
+	display:block;
+	padding-top:240px;
+}
+button{
+	font-style:Monospace;
+	font-weight:bold;
+}
+
+
